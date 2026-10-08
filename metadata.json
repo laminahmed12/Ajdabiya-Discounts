@@ -1,0 +1,6 @@
+{
+  "name": "تخفيضات أجدابيا",
+  "description": "تطبيق تخفيضات وعروض مدينة أجدابيا - تصفح العروض الحصرية والمحلات، عروض ساخنة وتواصل مباشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
